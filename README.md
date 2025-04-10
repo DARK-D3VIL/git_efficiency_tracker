@@ -61,6 +61,8 @@ To help organizations track engineering performance by:
 
 ## 🔁 WORKFLOW
 
+![alt text](<Editor _ Mermaid Chart-2025-04-10-113844.png>)
+
 ### 1️⃣ User Flow
 
 [User Signup/Login]
@@ -93,6 +95,8 @@ To help organizations track engineering performance by:
 ---
 
 ## DATABASE STRUCTURE
+
+![alt text](<Editor _ Mermaid Chart-2025-04-10-114418.png>)
 
 ### `users` – App Users
 
