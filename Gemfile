@@ -58,4 +58,10 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
+gem 'bcrypt', '~> 3.1.7'      # For secure password handling
+gem 'jwt'                     # For token-based auth
+gem 'httparty'                # For GitHub API requests
+gem 'dotenv-rails'            # For environment variables
+gem 'sidekiq'                 # For background sync jobs
+
 gem "devise", "~> 4.9"
